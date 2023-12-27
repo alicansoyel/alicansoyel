@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alican Soyel</h1>
-<h3 align="center">A passionate junior software developer from ISBAK A.Ş.</h3>
+<h3 align="center">A passionate Jr. Software Developer from ISBAK A.Ş.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alicansoyel&label=Profile%20views&color=0e75b6&style=flat" alt="alicansoyel" /> </p>
 
